@@ -11,6 +11,7 @@ Make sure you have the following installed:
 - Spotdl (via pip)
 - Mpv (via brew/apt)
 - Ffmpeg (default installed with spotdl)
+- Yt-dlp (via brew/apt)
 
 ## Installation
 
