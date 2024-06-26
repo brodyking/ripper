@@ -1,4 +1,4 @@
-# Ripper
+# ripper
 
 <img src="example.png" style="width: 100%">
 
