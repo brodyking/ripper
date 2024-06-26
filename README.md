@@ -15,7 +15,7 @@ Make sure you have the following installed:
 
 ## Installation
 
-Download rip.py to your home folder. Usually ```~/```. After downlaoding, rename the file to ```.rip.py```. This will hide it in file explorers. 
+Download rip.py to your home folder. Usually ```~/```. After downloading, rename the file to ```.rip.py```. This will hide it in file explorers. 
 
 Then, for quick access, add it to your zshrc, bashrc, etc. 
 ```bash
